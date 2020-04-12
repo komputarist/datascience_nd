@@ -1,4 +1,5 @@
-##[Project 1](https://github.com/komputarist/datascience_nd/tree/master/project%201)
+[##Project 1](https://github.com/komputarist/datascience_nd/tree/master/project%201)
+
     Weather trend project is meant to analyze local and global temperature data and compare the temperature trends of Kano, Nigeria to overall global temperature trends.
     Numpy is used to create moving averages by taking advantage of the rolling() function.
     Pandas is used to create the dataframe and other data manipulations the library offers.
